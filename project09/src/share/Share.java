@@ -9,4 +9,6 @@ public class Share {
 	public void date2(){
 		System.out.println("2222");
 	}
+	
+	
 }
